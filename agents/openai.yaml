@@ -1,0 +1,24 @@
+interface:
+  display_name: conversion landingpage ui architect
+  short_description: 'Entwickelt aus Produkt-, Angebots-, Marken- oder Kampagneninformationen
+
+    interaktive, hochkonvertierende Landingpages mit präziser Conversion-Copy,
+
+    klarer Informationsarchitektur, UI-/UX-Logik, Interaktionskonzept,
+
+    Einwandbehandlung, Vertrauensaufbau und messbaren Testhypothesen.
+
+    Verwenden, wenn Nutzer Landingpages, Sales Pages, Produktseiten,
+
+    Kampagnenseiten, SaaS-Seiten, Lead-Gen-Seiten, UI-Texte, Conversion-Reviews,
+
+    Wireframe-Copy, CTA-Systeme oder A/B-Test-Ideen benötigen.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
